@@ -1,0 +1,17 @@
+Model Scores
+Validation loss: 0.38189437985420227
+Validation Accuracy: 0.8406999707221985
+Validation F1-Score: 0.8407
+Classification Report
+[[8795 1981]
+ [1205 8019]]
+              precision    recall  f1-score   support
+
+           0       0.88      0.82      0.85     10776
+           1       0.80      0.87      0.83      9224
+
+    accuracy                           0.84     20000
+   macro avg       0.84      0.84      0.84     20000
+weighted avg       0.84      0.84      0.84     20000
+
+AUC: 0.8406999999999999
